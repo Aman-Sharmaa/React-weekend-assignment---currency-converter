@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
-import CurrencyConvertor from './CurrencyConvertor'
+import CurrencyConverter from './CurrencyConverter'
 
 const BASE_URL = 'https://api.exchangeratesapi.io/latest'
 
